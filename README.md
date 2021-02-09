@@ -1,2 +1,2 @@
 # AlgoritmoLZW
-Implementación del algoritmo de compresión LZW en C#
+Implementación del algoritmo de compresión y decompresión LZW en C#
