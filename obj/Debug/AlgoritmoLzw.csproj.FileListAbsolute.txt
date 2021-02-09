@@ -1,0 +1,10 @@
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\bin\Debug\AlgoritmoLzw.exe.config
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\bin\Debug\AlgoritmoLzw.exe
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\bin\Debug\AlgoritmoLzw.pdb
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\obj\Debug\AlgoritmoLzw.csprojAssemblyReference.cache
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\obj\Debug\AlgoritmoLzw.Form1.resources
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\obj\Debug\AlgoritmoLzw.Properties.Resources.resources
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\obj\Debug\AlgoritmoLzw.csproj.GenerateResource.cache
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\obj\Debug\AlgoritmoLzw.csproj.CoreCompileInputs.cache
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\obj\Debug\AlgoritmoLzw.exe
+C:\Users\danic\source\repos\AlgoritmoLzw\AlgoritmoLzw\obj\Debug\AlgoritmoLzw.pdb
